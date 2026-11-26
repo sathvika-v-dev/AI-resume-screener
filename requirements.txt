@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
+groq
+langchain-community
+sentence-transformers
+scikit-learn
+pydantic
