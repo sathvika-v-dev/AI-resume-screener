@@ -1,5 +1,7 @@
 # AI Resume Screener
 
+**Live Demo:** https://sathvika-resume-screener.streamlit.app
+
 An AI-powered tool that compares a resume with a job description, gives a match score, finds missing skills and generates short feedback.
 
 ![Demo](screenshot.png)
